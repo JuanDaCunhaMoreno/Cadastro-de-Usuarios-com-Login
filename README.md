@@ -29,7 +29,6 @@ Cadastro-de-Usuarios-com-Login/
 git clone https://github.com/JuanDaCunhaMoreno/Cadastro-de-Usuarios-com-Login-.git
 cd Cadastro-de-Usuarios-com-Login-
 
-2. Instale as dependências
+### 2. Instale as dependências
 
-    pip install mysql-connector-python bcrypt
-    
+        pip install mysql-connector-python bcrypt
