@@ -17,9 +17,9 @@ Este projeto é um sistema simples de cadastro e login de usuários utilizando *
 ## 📁 Estrutura do Projeto
 
 Cadastro-de-Usuarios-com-Login/
-├── db.py # Conexão com o banco de dados
-├── usuario.py # Funções de cadastro e login
-├── main.py # Programa principal (menu)
+├── db.py           # Conexão com o banco de dados
+├── usuario.py      # Funções de cadastro e login
+├── main.py         # Programa principal (menu)
 ├── README.md
 
 ## ⚙️ Como Executar o Projeto
